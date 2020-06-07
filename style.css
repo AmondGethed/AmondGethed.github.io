@@ -1,0 +1,13 @@
+a
+a:hover{
+   color: #FF0000;
+}
+
+a:active{
+    color: #b600b6;
+}
+
+.ssylka{
+    text-decoration: none;
+    color: #808080;
+}
